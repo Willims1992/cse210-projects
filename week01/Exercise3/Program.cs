@@ -42,6 +42,6 @@ class Program
             playAgain = Console.ReadLine();
         }
 
-        Console.WriteLine("Thanks for playing!");
+        Console.WriteLine("Thanks for playing! Goodbye!");
     }
 }
