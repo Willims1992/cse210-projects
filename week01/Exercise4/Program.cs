@@ -74,6 +74,6 @@ class Program
             Console.WriteLine(num);
         }
 
-        Console.WriteLine("Thanks for playing!");
+        Console.WriteLine("Thanks for playing! goodbye!");
     }
 }
