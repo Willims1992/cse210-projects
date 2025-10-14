@@ -14,6 +14,7 @@ class Program
         order1.AddProduct(new Product("Mouse", "P002", 25.50, 2));
 
         // Second customer (International)
+        //second customrer(hhhh)
         Address address2 = new Address("456 Elm St", "Toronto", "ON", "Canada");
         Customer customer2 = new Customer("Jane Smith", address2);
         Order order2 = new Order(customer2);
