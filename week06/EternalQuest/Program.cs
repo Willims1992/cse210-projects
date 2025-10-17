@@ -3,14 +3,14 @@ using System;
 CREATIVE FEATURES ADDED TO EXCEED REQUIREMENTS:
 
 1. Leveling System:
-   - Users level up every 1000 points.
-   - Current level is displayed with the score.
-   - Celebratory message appears when leveling up.
+   * Users level up every 1000 points.
+   * Current level is displayed with the score.
+   *  Celebratory message appears when leveling up.
 
 2. Negative Goals:
-   - New goal type that deducts points when recorded.
-   - Helps discourage bad habits (e.g., "Skipped scripture study").
-   - Displayed with a  symbol in the goal list.
+   * New goal type that deducts points when recorded.
+   * Helps discourage bad habits (e.g., "Skipped scripture study").
+   * Displayed with a  symbol in the goal list.
 
 These features enhance motivation and accountability, making the Eternal Quest more engaging and fun!
 */
